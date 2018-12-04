@@ -1,0 +1,42 @@
+e:\!current task work without log\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+e:\!current task work without log\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+e:\!current task work without log\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+e:\!current task work without log\TextEditor\TextEditor\bin\Debug\TextEditor.BL.dll
+e:\!current task work without log\TextEditor\TextEditor\bin\Debug\TextEditor.BL.pdb
+e:\!current task work without log\TextEditor\TextEditor\obj\Debug\Converter.csprojAssemblyReference.cache
+e:\!current task work without log\TextEditor\TextEditor\obj\Debug\Converter.csproj.ResolveComReference.cache
+e:\!current task work without log\TextEditor\TextEditor\obj\Debug\Converter.MainForm.resources
+e:\!current task work without log\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+e:\!current task work without log\TextEditor\TextEditor\obj\Debug\Converter.csproj.GenerateResource.cache
+e:\!current task work without log\TextEditor\TextEditor\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+e:\!current task work without log\TextEditor\TextEditor\obj\Debug\Converter.csproj.CopyComplete
+e:\!current task work without log\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+e:\!current task work without log\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+e:\!финальная работа\TextEditor\Converter\bin\Debug\TextEditor.exe.config
+e:\!финальная работа\TextEditor\Converter\bin\Debug\TextEditor.exe
+e:\!финальная работа\TextEditor\Converter\bin\Debug\TextEditor.pdb
+e:\!финальная работа\TextEditor\Converter\bin\Debug\TextEditor.BL.dll
+e:\!финальная работа\TextEditor\Converter\bin\Debug\TextEditor.BL.pdb
+e:\!финальная работа\TextEditor\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+e:\!финальная работа\TextEditor\Converter\obj\Debug\Converter.csproj.ResolveComReference.cache
+e:\!финальная работа\TextEditor\Converter\obj\Debug\Converter.MainForm.resources
+e:\!финальная работа\TextEditor\Converter\obj\Debug\TextEditor.Properties.Resources.resources
+e:\!финальная работа\TextEditor\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+e:\!финальная работа\TextEditor\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+e:\!финальная работа\TextEditor\Converter\obj\Debug\Converter.csproj.CopyComplete
+e:\!финальная работа\TextEditor\Converter\obj\Debug\TextEditor.exe
+e:\!финальная работа\TextEditor\Converter\obj\Debug\TextEditor.pdb
+y:\projects\Converter\Converter\bin\Debug\TextEditor.exe.config
+y:\projects\Converter\Converter\bin\Debug\TextEditor.exe
+y:\projects\Converter\Converter\bin\Debug\TextEditor.pdb
+y:\projects\Converter\Converter\bin\Debug\TextEditor.BL.dll
+y:\projects\Converter\Converter\bin\Debug\TextEditor.BL.pdb
+y:\projects\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+y:\projects\Converter\Converter\obj\Debug\Converter.csproj.ResolveComReference.cache
+y:\projects\Converter\Converter\obj\Debug\Converter.MainForm.resources
+y:\projects\Converter\Converter\obj\Debug\TextEditor.Properties.Resources.resources
+y:\projects\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+y:\projects\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+y:\projects\Converter\Converter\obj\Debug\Converter.csproj.CopyComplete
+y:\projects\Converter\Converter\obj\Debug\TextEditor.exe
+y:\projects\Converter\Converter\obj\Debug\TextEditor.pdb

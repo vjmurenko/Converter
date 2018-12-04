@@ -1,0 +1,14 @@
+C:\Users\Vladimir\source\repos\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.dll
+C:\Users\Vladimir\source\repos\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.pdb
+C:\Users\Vladimir\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.dll
+C:\Users\Vladimir\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.pdb
+C:\Users\Vladimir\source\repos\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csproj.ResolveComReference.cache
+e:\!current task work without log\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.dll
+e:\!current task work without log\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.pdb
+e:\!current task work without log\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csprojAssemblyReference.cache
+e:\!current task work without log\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csproj.ResolveComReference.cache
+e:\!current task work without log\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csproj.CoreCompileInputs.cache
+e:\!current task work without log\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.dll
+e:\!current task work without log\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.pdb

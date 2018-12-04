@@ -1,0 +1,7 @@
+e:\!финальная работа\TextEditor\Converter.BL\bin\Release\TextEditor.BL.dll
+e:\!финальная работа\TextEditor\Converter.BL\bin\Release\TextEditor.BL.pdb
+e:\!финальная работа\TextEditor\Converter.BL\obj\Release\Converter.BL.csproj.ResolveComReference.cache
+e:\!финальная работа\TextEditor\Converter.BL\obj\Release\Converter.BL.csproj.CoreCompileInputs.cache
+e:\!финальная работа\TextEditor\Converter.BL\obj\Release\TextEditor.BL.dll
+e:\!финальная работа\TextEditor\Converter.BL\obj\Release\TextEditor.BL.pdb
+e:\!финальная работа\TextEditor\Converter.BL\obj\Release\Converter.BL.csprojAssemblyReference.cache

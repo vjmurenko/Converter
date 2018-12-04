@@ -1,0 +1,14 @@
+e:\!финальная работа\TextEditor\Converter\bin\Release\TextEditor.exe.config
+e:\!финальная работа\TextEditor\Converter\bin\Release\TextEditor.exe
+e:\!финальная работа\TextEditor\Converter\bin\Release\TextEditor.pdb
+e:\!финальная работа\TextEditor\Converter\bin\Release\TextEditor.BL.dll
+e:\!финальная работа\TextEditor\Converter\bin\Release\TextEditor.BL.pdb
+e:\!финальная работа\TextEditor\Converter\obj\Release\Converter.csprojAssemblyReference.cache
+e:\!финальная работа\TextEditor\Converter\obj\Release\Converter.csproj.ResolveComReference.cache
+e:\!финальная работа\TextEditor\Converter\obj\Release\Converter.MainForm.resources
+e:\!финальная работа\TextEditor\Converter\obj\Release\TextEditor.Properties.Resources.resources
+e:\!финальная работа\TextEditor\Converter\obj\Release\Converter.csproj.GenerateResource.cache
+e:\!финальная работа\TextEditor\Converter\obj\Release\Converter.csproj.CoreCompileInputs.cache
+e:\!финальная работа\TextEditor\Converter\obj\Release\Converter.csproj.CopyComplete
+e:\!финальная работа\TextEditor\Converter\obj\Release\TextEditor.exe
+e:\!финальная работа\TextEditor\Converter\obj\Release\TextEditor.pdb
